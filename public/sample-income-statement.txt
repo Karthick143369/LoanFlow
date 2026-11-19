@@ -1,0 +1,5 @@
+LOANFLOW — FICTIONAL SAMPLE DOCUMENT
+Applicant: Demo customer
+Monthly income: INR 65,000
+Employment: Salaried
+Purpose: Portfolio demonstration only. This is not a real financial document.
